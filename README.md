@@ -1,2 +1,2 @@
 # Arduino-Nightlight
-Homework "Applied Sensorics and Electronics
+Homework "Applied Sensorics and Electronics"
