@@ -4,7 +4,7 @@ Build your own nightlight with an Arduino board, which uses a light dependant re
 
 ## Used technologies
 
-C++. Microcontroller Arduino, Arduino IDE
+C++, Arduino, Arduino IDE
 
 ## Prerequisites
 
