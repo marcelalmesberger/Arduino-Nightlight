@@ -2,6 +2,10 @@
 
 Build your own nightlight with an Arduino board, which uses a light dependant resisistor as a sensor to switch an LED on and off dependant on the current light situation. 
 
+## Used technologies
+
+C++. Microcontroller Arduino, Arduino IDE
+
 ## Prerequisites
 
 1. Have an Arduino UNO kit or similar microcontroller. See the [official Arduino website](https://www.arduino.cc/) for more information
